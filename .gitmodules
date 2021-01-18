@@ -3,3 +3,39 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "friends"]
+	path = friends
+	url = https://github.com/emilhvitfeldt/friends
+	shallow = true
+[submodule "ggpage"]
+	path = ggpage
+	url = https://github.com/emilhvitfeldt/ggpage
+	shallow = true
+[submodule "hcandersenr"]
+	path = hcandersenr
+	url = https://github.com/emilhvitfeldt/hcandersenr
+	shallow = true
+[submodule "methcon5"]
+	path = methcon5
+	url = https://github.com/emilhvitfeldt/methcon5
+	shallow = true
+[submodule "paletteer"]
+	path = paletteer
+	url = https://github.com/emilhvitfeldt/paletteer
+	shallow = true
+[submodule "prismatic"]
+	path = prismatic
+	url = https://github.com/emilhvitfeldt/prismatic
+	shallow = true
+[submodule "textdata"]
+	path = textdata
+	url = https://github.com/emilhvitfeldt/textdata
+	shallow = true
+[submodule "walmartAPI"]
+	path = walmartAPI
+	url = https://github.com/emilhvitfeldt/walmartapi
+	shallow = true
+[submodule "wordsalad"]
+	path = wordsalad
+	url = https://github.com/emilhvitfeldt/wordsalad
+	shallow = true
