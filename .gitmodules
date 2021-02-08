@@ -15,10 +15,6 @@
 	path = hcandersenr
 	url = https://github.com/emilhvitfeldt/hcandersenr
 	shallow = true
-[submodule "methcon5"]
-	path = methcon5
-	url = https://github.com/emilhvitfeldt/methcon5
-	shallow = true
 [submodule "paletteer"]
 	path = paletteer
 	url = https://github.com/emilhvitfeldt/paletteer
