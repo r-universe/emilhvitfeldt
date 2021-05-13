@@ -1,0 +1,34 @@
+[
+  {
+    "package": "friends",
+    "oncran": true
+  },
+  {
+    "package": "ggpage",
+    "oncran": true
+  },
+  {
+    "package": "hcandersenr",
+    "oncran": true
+  },
+  {
+    "package": "paletteer",
+    "oncran": true
+  },
+  {
+    "package": "prismatic",
+    "oncran": true
+  },
+  {
+    "package": "textdata",
+    "oncran": true
+  },
+  {
+    "package": "walmartAPI",
+    "oncran": true
+  },
+  {
+    "package": "wordsalad",
+    "oncran": true
+  }
+]

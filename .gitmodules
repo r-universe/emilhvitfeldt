@@ -8,46 +8,38 @@
 	url = https://github.com/emilhvitfeldt/friends
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "ggpage"]
 	path = ggpage
 	url = https://github.com/emilhvitfeldt/ggpage
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "hcandersenr"]
 	path = hcandersenr
 	url = https://github.com/emilhvitfeldt/hcandersenr
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "paletteer"]
 	path = paletteer
 	url = https://github.com/emilhvitfeldt/paletteer
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "prismatic"]
 	path = prismatic
 	url = https://github.com/emilhvitfeldt/prismatic
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "textdata"]
 	path = textdata
 	url = https://github.com/emilhvitfeldt/textdata
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "walmartAPI"]
 	path = walmartAPI
 	url = https://github.com/emilhvitfeldt/walmartapi
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "wordsalad"]
 	path = wordsalad
 	url = https://github.com/emilhvitfeldt/wordsalad
 	shallow = true
 	registered = true
-	oncran = true
