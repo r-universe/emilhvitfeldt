@@ -1,5 +1,9 @@
 [
   {
+    "package": "emoji",
+    "oncran": true
+  },
+  {
     "package": "friends",
     "oncran": true
   },
