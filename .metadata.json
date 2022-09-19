@@ -12,10 +12,6 @@
     "oncran": true
   },
   {
-    "package": "hcandersenr",
-    "oncran": true
-  },
-  {
     "package": "paletteer",
     "oncran": true
   },
