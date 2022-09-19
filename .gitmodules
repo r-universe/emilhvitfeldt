@@ -18,6 +18,11 @@
 	url = https://github.com/emilhvitfeldt/ggpage
 	shallow = true
 	registered = true
+[submodule "hcandersenr"]
+	path = hcandersenr
+	url = https://github.com/emilhvitfeldt/hcandersenr
+	shallow = true
+	registered = true
 [submodule "paletteer"]
 	path = paletteer
 	url = https://github.com/emilhvitfeldt/paletteer
