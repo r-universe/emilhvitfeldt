@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "fastTextR",
+    "oncran": true
+  },
+  {
     "package": "friends",
     "oncran": true
   },

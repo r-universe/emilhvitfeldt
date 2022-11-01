@@ -8,6 +8,11 @@
 	url = https://github.com/emilhvitfeldt/emoji
 	shallow = true
 	registered = true
+[submodule "fastTextR"]
+	path = fastTextR
+	url = https://github.com/emilhvitfeldt/fasttextr
+	shallow = true
+	registered = true
 [submodule "friends"]
 	path = friends
 	url = https://github.com/emilhvitfeldt/friends
