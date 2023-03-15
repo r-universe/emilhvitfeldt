@@ -1,6 +1,22 @@
 [
   {
+    "package": "emoji",
+    "oncran": true
+  },
+  {
+    "package": "fastTextR",
+    "oncran": true
+  },
+  {
+    "package": "friends",
+    "oncran": true
+  },
+  {
     "package": "ggpage",
+    "oncran": true
+  },
+  {
+    "package": "hcandersenr",
     "oncran": true
   },
   {
@@ -12,31 +28,15 @@
     "oncran": true
   },
   {
-    "package": "walmartAPI",
-    "oncran": true
-  },
-  {
-    "package": "fastTextR",
-    "oncran": true
-  },
-  {
-    "package": "hcandersenr",
-    "oncran": true
-  },
-  {
-    "package": "wordsalad",
-    "oncran": true
-  },
-  {
-    "package": "friends",
-    "oncran": true
-  },
-  {
     "package": "textdata",
     "oncran": true
   },
   {
-    "package": "emoji",
+    "package": "walmartAPI",
+    "oncran": true
+  },
+  {
+    "package": "wordsalad",
     "oncran": true
   }
 ]
