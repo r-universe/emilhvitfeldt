@@ -1,55 +1,34 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "emoji"]
 	path = emoji
 	url = https://github.com/emilhvitfeldt/emoji
-	shallow = true
-	registered = true
 [submodule "fastTextR"]
 	path = fastTextR
 	url = https://github.com/emilhvitfeldt/fasttextr
-	shallow = true
-	registered = true
 [submodule "friends"]
 	path = friends
 	url = https://github.com/emilhvitfeldt/friends
-	shallow = true
-	registered = true
 [submodule "ggpage"]
 	path = ggpage
 	url = https://github.com/emilhvitfeldt/ggpage
-	shallow = true
-	registered = true
 [submodule "hcandersenr"]
 	path = hcandersenr
 	url = https://github.com/emilhvitfeldt/hcandersenr
-	shallow = true
-	registered = true
 [submodule "paletteer"]
 	path = paletteer
 	url = https://github.com/emilhvitfeldt/paletteer
-	shallow = true
-	registered = true
 [submodule "prismatic"]
 	path = prismatic
 	url = https://github.com/emilhvitfeldt/prismatic
-	shallow = true
-	registered = true
 [submodule "textdata"]
 	path = textdata
 	url = https://github.com/emilhvitfeldt/textdata
-	shallow = true
-	registered = true
 [submodule "walmartAPI"]
 	path = walmartAPI
 	url = https://github.com/emilhvitfeldt/walmartapi
-	shallow = true
-	registered = true
 [submodule "wordsalad"]
 	path = wordsalad
 	url = https://github.com/emilhvitfeldt/wordsalad
-	shallow = true
-	registered = true
