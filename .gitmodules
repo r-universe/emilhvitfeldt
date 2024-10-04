@@ -5,6 +5,9 @@
 [submodule "emoji"]
 	path = emoji
 	url = https://github.com/emilhvitfeldt/emoji
+[submodule "extrasteps"]
+	path = extrasteps
+	url = https://github.com/emilhvitfeldt/extrasteps
 [submodule "fastTextR"]
 	path = fastTextR
 	url = https://github.com/emilhvitfeldt/fasttextr
