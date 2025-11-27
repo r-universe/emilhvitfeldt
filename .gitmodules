@@ -20,6 +20,9 @@
 [submodule "hcandersenr"]
 	path = hcandersenr
 	url = https://github.com/emilhvitfeldt/hcandersenr
+[submodule "lime"]
+	path = lime
+	url = https://github.com/emilhvitfeldt/lime
 [submodule "paletteer"]
 	path = paletteer
 	url = https://github.com/emilhvitfeldt/paletteer
